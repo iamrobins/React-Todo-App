@@ -5,6 +5,7 @@
 ## Add Todos
 ### Adding Todos which will be saved in local storage.
 <img src="app-pics/AddTodos.png">
+<img src="app-pics/AddTodos.gif">
 
 ## Edit Todos
 <img src="app-pics/EditTodos.png">
