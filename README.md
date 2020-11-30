@@ -15,3 +15,4 @@
 ## Delete Todos
 ### You can delete todo task in any order, task will be deleted from the local storage.
 <img src="app-pics/DeleteTodos.png">
+<img src="app-pics/giphy.gif">
