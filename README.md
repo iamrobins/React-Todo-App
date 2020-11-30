@@ -1,6 +1,5 @@
 # Todo-App in React
 ### A Todo-App created in React with its own default state management. It stores todos in local storage and then manipulate it based on user actions.
-<img src="app-pics/AppMain.png">
 
 ## Add Todos
 ### Adding Todos which will be saved in local storage.
