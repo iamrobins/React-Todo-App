@@ -8,7 +8,7 @@
 <img src="app-pics/AddTodos.gif">
 
 ## Edit Todos
-<img src="app-pics/EditTodos.png">
+<img src="app-pics/EditTodos.gif">
 
 ## Edited Todo
 <img src="app-pics/EditedTodos.png">
