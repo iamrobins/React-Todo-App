@@ -4,15 +4,11 @@
 
 ## Add Todos
 ### Adding Todos which will be saved in local storage.
-<img src="app-pics/AddTodos.png">
 <img src="app-pics/AddTodos.gif">
 
 ## Edit Todos
 <img src="app-pics/EditTodos.gif">
 
-## Edited Todo
-<img src="app-pics/EditedTodos.png">
-
 ## Delete Todos
 ### You can delete todo task in any order, task will be deleted from the local storage.
-<img src="app-pics/DeleteTodos.png">
+<img src="app-pics/DeleteTodos.gif">
